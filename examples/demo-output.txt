@@ -1,0 +1,9 @@
+$ jsonl-rescue scan examples/messy.jsonl --required id --required text --dedupe
+
+6 rows | 2 accepted | 4 rejected | 1 duplicates
+blank-line: 1
+duplicate: 1
+invalid-json: 1
+missing-keys: 1
+
+Exit code: 1

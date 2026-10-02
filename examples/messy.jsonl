@@ -1,0 +1,6 @@
+{"id":"a","text":"Hello"}
+{"text":"Hello","id":"a"}
+{broken json}
+{"id":"b","text":"你好"}
+{"text":"missing id"}
+
